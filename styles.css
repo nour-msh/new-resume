@@ -3,22 +3,33 @@
 }
 img{
     border-radius: 50%;
-    border: 5px solid #38d1ec;
+    border: 5px solid #38acc0;
     padding: 5px;
     background: white
 }
 .info{
-    background-color: rgb(31, 31, 31);
+    background-color: #1f1f1f;
     color:#dadada;
     width:500px;
     height:100px;
     text-align:center;
     padding:20px;
     border-radius: 10px;
-    line-height: 0.5;
+    line-height: 0.2;
     letter-spacing:2px;
 }
 .name{
-    font-size:35px;
+    font-size:45px;
     font-weight: 500;
+}
+h3{
+    font-size: 30px;
+    color:#38acc0;
+    font-weight: 400;
+}
+hr{
+    border-top: 1px solid #1f1f1f ;
+}
+.para1{
+    font-weight: 200;
 }
