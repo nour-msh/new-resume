@@ -38,3 +38,34 @@ h4{
     font-size: 20px;
     font-weight: 400
 }
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    width:100%;
+    height:auto;
+    justify-content: center;
+}
+.flex-box-1{
+    width: 200px;
+    height: 200px;
+    margin:10px;
+    flex-direction: row;
+}
+.flex-box-2{
+    width: 200px;
+    height: 200px;
+    margin:10px;
+    flex-direction: row;
+}
+.flex-box-3{
+    width: 200px;
+    height: 200px;
+    margin:10px;
+    flex-direction: row;
+}
+.flex-box-4{
+    width: 200px;
+    height: 200px;
+    margin:10px;
+    flex-direction: row;
+}
