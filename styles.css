@@ -1,6 +1,16 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
 img{
     border-radius: 50%;
     border: 5px solid #38d1ec;
     padding: 5px;
     background: white
+}
+.info{
+    background-color: rgb(10, 10, 10);
+}
+.name{
+    font-size:xx-large;;
+    font-weight: 500;
 }
