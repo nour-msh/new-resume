@@ -7,7 +7,9 @@ img{
     border: 5px solid #38acc0;
     padding: 5px;
     background: white;
-    margin-top:35px
+    margin:35px;
+    width:250px;
+    height:250px
 }
 .info{
     background-color: #ffffff;
@@ -74,7 +76,7 @@ h4{
 }
 .flex-item-4{
     background-color: #38acc0;
-    text-align:left;
+    text-align:center;
     padding:20px;
     border-radius: 10px;
     margin: 20px;
