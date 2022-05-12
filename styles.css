@@ -8,29 +8,28 @@ img{
     padding: 5px;
     background: white;
     margin:35px;
-    width:250px;
-    height:250px
+    width:350px;
+    height:300px
 }
 .info{
-    background-color: #ffffff;
-    width:800px;
-    height:160px;
+    background-color: #dddbdb;
+    width:1000px;
+    height:200px;
     text-align:center;
     padding:45px;
     border-radius: 10px;
     line-height: 0.8;
     letter-spacing:2px;
-    margin:35px;
-    border: 7px solid #38acc0;
+    margin:50px;
 }
 .name{
     font-weight: 500;
-    color:#38acc0;
+    color:white;
     font-size: 55px;
 }
 .position{
     font-weight: 500;
-    color:#38acc0;
+    color:white;
     font-size: 30px;
 }
 h3{
